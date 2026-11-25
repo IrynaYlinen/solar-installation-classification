@@ -1,3 +1,5 @@
+![Solar Installation Classification](sp_thumbnail.jpg)
+
 # Solar Installation Customer Segment Classification
 
 ## Project Overview
